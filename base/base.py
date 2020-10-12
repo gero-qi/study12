@@ -14,4 +14,4 @@ class Base():
             self.log.erro('未找到该元素')
 
     def js(self, str):
-        self.driver.ex111
+        self.driver.ex111test
