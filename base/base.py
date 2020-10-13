@@ -16,4 +16,3 @@ class Base():
     def js(self, str):
         self.driver.ex111
 
-    def test（）：
